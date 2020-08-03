@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/attainu-nightingale/music-streaming.git"
+    "url": "git+https://github.com/rithikahoney1999/Music.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/attainu-nightingale/music-streaming/issues"
+    "url": "https://github.com/rithikahoney1999/Music/issues"
   },
-  "homepage": "https://github.com/attainu-nightingale/music-streaming#readme",
+  "homepage": "https://github.com/rithikahoney1999/Music/blob/master/README.md",
   "dependencies": {
     "express": "^4.17.1",
     "express-session": "^1.16.2",
